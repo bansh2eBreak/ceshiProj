@@ -1,1 +1,2 @@
-ssssss
+def main:
+    print('111111')
